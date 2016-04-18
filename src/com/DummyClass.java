@@ -13,10 +13,11 @@ public class DummyClass {
      * @param args
      */
     public static void main(String[] args) {
-
         /**
-         * This is a demo scanner object for the conflict testing.
+         * Scanner testing
          */
+        Scanner k = new Scanner(System.in);
+
         Scanner sc = new Scanner(System.in);
         sc.next();
     }
