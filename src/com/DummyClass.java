@@ -9,6 +9,7 @@ public class DummyClass {
 
     /**
      * Edit by dhaval doshi
+     *
      * @param args
      */
     public static void main(String[] args) {
@@ -16,5 +17,7 @@ public class DummyClass {
          * Scanner testing
          */
         Scanner k = new Scanner(System.in);
+
+        Scanner sc = new Scanner(System.in);
     }
 }
