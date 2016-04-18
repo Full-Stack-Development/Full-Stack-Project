@@ -18,5 +18,6 @@ public class DummyClass {
          * This is a demo scanner object for the conflict testing.
          */
         Scanner sc = new Scanner(System.in);
+        sc.next();
     }
 }
